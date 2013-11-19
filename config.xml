@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.selecweb.1stbuild"
+    version   = "1.1.0">
+
+<name>Select Web Mobi</name>
+
+<description>
+A Select Web Development
+</description>
+
+<author href="https://selectweb.co.za" email="design@selectweb.co.za">
+Your Name
+</author>
+
+</widget>
